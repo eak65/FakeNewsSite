@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /appfeeds/*
+Disallow: /meta/*
+Disallow: *outputType=rawHTML*
+Disallow: *outputType=appfeeds*
+
+Sitemap: https://www.local10.com/sitemap.xml
+Sitemap: https://www.local10.com/arcio/sitemap/
+Sitemap: https://www.local10.com/arcio/news-sitemap/
+Sitemap: https://www.local10.com/arcio/google-news-feed/
